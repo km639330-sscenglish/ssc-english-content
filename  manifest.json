@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "shifts": [
+    {
+      "id": "cgl_2025_shift1",
+      "examType": "CGL",
+      "year": 2025,
+      "dateString": "10 Sept 2025",
+      "shiftNumber": 1,
+      "pdfFileName": "cgl_2025_shift1.pdf",
+      "jsonFileName": "cgl_2025_shift1.json",
+      "questionCount": 25
+    }
+  ]
+}

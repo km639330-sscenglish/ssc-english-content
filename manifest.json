@@ -1,0 +1,25 @@
+{
+ "version": 1,
+ "shifts": [
+  {
+   "id": "cgl_2025_sep10_s1",
+   "examType": "CGL",
+   "year": 2025,
+   "dateString": "10 Sept 2025",
+   "shiftNumber": 1,
+   "questionCount": 1,
+   "jsonFileName": "cgl_2025_sep10_s1.json",
+   "sha256": "03569c33f00f58ea7a0dbc850525a665360276565daf5cc8a9110ae92f87b41d"
+  },
+  {
+   "id": "steno_2025_aug06_s1",
+   "examType": "STENO",
+   "year": 2025,
+   "dateString": "06 Aug 2025",
+   "shiftNumber": 1,
+   "questionCount": 2,
+   "jsonFileName": "steno_2025_aug06_s1.json",
+   "sha256": "9e4a08e4cd6b8b271d59360dfafa49091ce43fd00fad633d148760e01eeac2c4"
+  }
+ ]
+}

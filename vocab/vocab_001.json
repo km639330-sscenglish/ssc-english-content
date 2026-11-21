@@ -1,0 +1,167 @@
+[
+{
+"id": "syn_0001",
+"type": "Synonyms",
+"word": "Ephemeral",
+"meaning_en": "Lasting for a very short time",
+"meaning_hi": "अल्पकालिक या क्षणभंगुर",
+"synonyms": ["Transient", "Fleeting", "Evanescent", "Brief"],
+"antonyms": ["Permanent", "Enduring", "Perpetual", "Eternal"],
+"example": "Fame on social media is often ephemeral.",
+"mnemonic": "Ephemeral sounds like 'a funeral'—life and moments pass quickly."
+},
+{
+"id": "syn_0002",
+"type": "Synonyms",
+"word": "Benevolent",
+"meaning_en": "Well-meaning and kindly",
+"meaning_hi": "परोपकारी या दयालु",
+"synonyms": ["Kindhearted", "Philanthropic", "Compassionate", "Generous"],
+"antonyms": ["Malevolent", "Cruel", "Malicious", "Spiteful"],
+"example": "The benevolent donor funded a new village school.",
+"mnemonic": "Bene- means 'good' (like benefit), and volent means 'wishing'—wishing good for others."
+},
+{
+"id": "syn_0003",
+"type": "Synonyms",
+"word": "Obdurate",
+"meaning_en": "Stubbornly refusing to change one's opinion or course of action",
+"meaning_hi": "हठी या अड़ियल",
+"synonyms": ["Obstinate", "Stubborn", "Adamant", "Inflexible"],
+"antonyms": ["Compliant", "Flexible", "Amenable", "Yielding"],
+"example": "Despite clear evidence, he remained obdurate.",
+"mnemonic": "Obdurate sounds like 'hard door'—a door that will not budge."
+},
+{
+"id": "syn_0004",
+"type": "Synonyms",
+"word": "Sagacious",
+"meaning_en": "Having or showing keen mental discernment and good judgment",
+"meaning_hi": "बुद्धिमान या दूरदर्शी",
+"synonyms": ["Wise", "Prudent", "Astute", "Perspicacious"],
+"antonyms": ["Foolish", "Unwise", "Imprudent", "Naive"],
+"example": "Her sagacious advice saved the team from a costly mistake.",
+"mnemonic": "A sage is a wise person, so sagacious means full of sage-like wisdom."
+},
+{
+"id": "syn_0005",
+"type": "Synonyms",
+"word": "Diligent",
+"meaning_en": "Having or showing care and conscientiousness in one's work or duties",
+"meaning_hi": "परिश्रमी या मेहनती",
+"synonyms": ["Industrious", "Assiduous", "Conscientious", "Hardworking"],
+"antonyms": ["Lazy", "Indolent", "Slothful", "Negligent"],
+"example": "Diligent aspirants revise daily for SSC exams.",
+"mnemonic": "Diligent is 'daily-gent'—someone who works daily with gentle focus."
+},
+{
+"id": "idm_0001",
+"type": "Idioms",
+"word": "Bite the bullet",
+"meaning_en": "To face a difficult or unpleasant situation with courage",
+"meaning_hi": "कठिन परिस्थिति का साहसपूर्वक सामना करना",
+"synonyms": [],
+"antonyms": [],
+"example": "She decided to bite the bullet and take the tough mock test.",
+"mnemonic": "Soldiers in the past bit on a lead bullet during painful surgery without anesthesia."
+},
+{
+"id": "idm_0002",
+"type": "Idioms",
+"word": "Once in a blue moon",
+"meaning_en": "Very rarely",
+"meaning_hi": "कभी-कभार या बहुत कम",
+"synonyms": [],
+"antonyms": [],
+"example": "He visits his hometown once in a blue moon.",
+"mnemonic": "A second full moon in a calendar month (a blue moon) is an uncommon event."
+},
+{
+"id": "idm_0003",
+"type": "Idioms",
+"word": "Burn the midnight oil",
+"meaning_en": "To work or study late into the night",
+"meaning_hi": "देर रात तक मेहनत या पढ़ाई करना",
+"synonyms": [],
+"antonyms": [],
+"example": "Many candidates burn the midnight oil before the exam.",
+"mnemonic": "Before electric lamps, people burned oil lamps late at night to keep working."
+},
+{
+"id": "idm_0004",
+"type": "Idioms",
+"word": "Spill the beans",
+"meaning_en": "To reveal a secret unintentionally or prematurely",
+"meaning_hi": "राज़ खोल देना या भेद उजागर करना",
+"synonyms": [],
+"antonyms": [],
+"example": "He accidentally spilled the beans about the surprise party.",
+"mnemonic": "Picture knocking over a jar of beans so the secret spills out everywhere."
+},
+{
+"id": "idm_0005",
+"type": "Idioms",
+"word": "Call it a day",
+"meaning_en": "To stop working on something for the day",
+"meaning_hi": "आज के लिए काम बंद करना",
+"synonyms": [],
+"antonyms": [],
+"example": "After six hours of practice, we decided to call it a day.",
+"mnemonic": "You officially declare the workday finished and pack up."
+},
+{
+"id": "ows_0001",
+"type": "OWS",
+"word": "Altruist",
+"meaning_en": "A person who disinterestedly and selflessly is concerned for the well-being of others",
+"meaning_hi": "परोपकारी व्यक्ति",
+"synonyms": [],
+"antonyms": [],
+"example": "The altruist donated his entire pension to charity.",
+"mnemonic": "Altruist sounds like 'all-true-ist'—truly caring for all others."
+},
+{
+"id": "ows_0002",
+"type": "OWS",
+"word": "Omniscient",
+"meaning_en": "Knowing everything",
+"meaning_hi": "सर्वज्ञानी या सब कुछ जानने वाला",
+"synonyms": [],
+"antonyms": [],
+"example": "An omniscient narrator knows every character's thoughts.",
+"mnemonic": "Omni- means 'all' and sci- means 'know' (like science)—knowing all."
+},
+{
+"id": "ows_0003",
+"type": "OWS",
+"word": "Ephemeral",
+"meaning_en": "A short-lived fashion or fad",
+"meaning_hi": "क्षणिक रुझान या अल्पकालिक चलन",
+"synonyms": [],
+"antonyms": [],
+"example": "That dance trend proved to be an ephemeral craze.",
+"mnemonic": "Think of a mayfly living for just one day—here today, gone tomorrow."
+},
+{
+"id": "ows_0004",
+"type": "OWS",
+"word": "Polyglot",
+"meaning_en": "A person knowing and using several languages",
+"meaning_hi": "बहुभाषी व्यक्ति",
+"synonyms": [],
+"antonyms": [],
+"example": "As a polyglot, she speaks five languages fluently.",
+"mnemonic": "Poly- means 'many' and -glot refers to 'tongue/language'."
+},
+{
+"id": "ows_0005",
+"type": "OWS",
+"word": "Pessimist",
+"meaning_en": "A person who tends to see the worst aspect of things or believe that the worst will happen",
+"meaning_hi": "निराशावादी व्यक्ति",
+"synonyms": [],
+"antonyms": [],
+"example": "A pessimist expects rain even on a sunny morning.",
+"mnemonic": "Pessimist rhymes with 'mess-in-mist'—always expecting a gloomy mess."
+}
+]

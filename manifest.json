@@ -2,7 +2,7 @@
   "version": 2,
     "vocab": [{"file": "vocab/vocab_001.json", "version": 1}],
     "practice": [{"file": "practice/practice_mix_001.json", "version": 1}],
-  "shifts": [{"id":"cgl_2027_jan05_s1","examType":"CGL","year":2027,"dateString":"05 Jan 2027","shiftNumber":1,"questionCount":3,"jsonFileName":"cgl_2027_jan05_s1.json","version":1},
+  "shifts": [{"id":"cgl_2027_jan05_s1","examType":"CGL","year":2027,"dateString":"05 Jan 2027","shiftNumber":1,"questionCount":3,"jsonFileName":"cgl_2027_jan05_s1.json","version":1, "hidden":true},
     {
       "id": "cgl_2025_sep10_s1",
       "examType": "CGL",

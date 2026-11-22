@@ -1,0 +1,6 @@
+{"questions":[
+{"no":1,"text":"Select the part with error.\n(A) She don't / (B) like tea / (C) in the morning / (D) No error","optionA":"She don't","optionB":"like tea","optionC":"in the morning","optionD":"No error","correct":"A","explanation":"Should be **doesn't**.","category":"Spotting Errors"},
+{"no":2,"text":"Improve the bold part: He **is living** here since 2010.","optionA":"No improvement","optionB":"has been living","optionC":"was living","optionD":"had lived","correct":"B","explanation":"Use __has been living__ with since.","category":"Sentence Improvement"},
+{"no":3,"text":"Fill blank (1).","passage":"The weather in the hills is usually (1) ____ in winter and (2) ____ in summer.","passageId":"cl1","optionA":"cold","optionB":"hot","optionC":"humid","optionD":"dry","correct":"A","explanation":"Cold fits winter.","category":"Cloze Test"},
+{"no":4,"text":"Fill blank (2).","passageId":"cl1","optionA":"cold","optionB":"pleasant","optionC":"snowy","optionD":"foggy","correct":"B","explanation":"Pleasant fits summer.","category":"Cloze Test"}
+]}

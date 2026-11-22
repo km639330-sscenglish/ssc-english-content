@@ -1,34 +1,17 @@
 {
-  "version": 2,
-    "vocab": [{"file": "vocab/vocab_001.json", "version": 1}],
-    "practice": [{"file": "practice/practice_mix_001.json", "version": 1}],
-  "shifts": [{"id":"cgl_2027_jan05_s1","examType":"CGL","year":2027,"dateString":"05 Jan 2027","shiftNumber":1,"questionCount":3,"jsonFileName":"cgl_2027_jan05_s1.json","version":3, "hidden":false},
+  "version": 1,
+  "vocab": [{"file": "vocab/vocab_001.json", "version": 1}],
+  "practice": [{"file": "practice/practice_mix_001.json", "version": 1}],
+  "shifts": [
     {
-      "id": "cgl_2025_sep10_s1",
-      "examType": "CGL",
-      "year": 2025,
-      "dateString": "10 Sept 2025",
-      "shiftNumber": 1,
-      "questionCount": 1,
-      "jsonFileName": "cgl_2025_sep10_s1.json"
-    },
-    {
-      "id": "steno_2025_aug06_s1",
+      "id": "steno_2026_sep12_s1",
       "examType": "STENO",
-      "year": 2025,
-      "dateString": "06 Aug 2025",
+      "year": 2026,
+      "dateString": "12 Sept 2026",
       "shiftNumber": 1,
-      "questionCount": 2,
-      "jsonFileName": "steno_2025_aug06_s1.json"
-    },
-    {
-      "id": "cgl_2027_jan12_s1",
-      "examType": "CGL",
-      "year": 2027,
-      "dateString": "12 Jan 2027",
-      "shiftNumber": 1,
-      "questionCount": 10,
-      "jsonFileName": "cgl_2027_jan12_s1.json"
+      "questionCount": 100,
+      "jsonFileName": "steno_2026_sep12_s1.json",
+      "version": 1
     }
   ]
 }

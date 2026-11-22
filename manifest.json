@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "vocab": [{"file": "vocab/vocab_001.json", "version": 1}],
   "practice": [{"file": "practice/practice_mix_001.json", "version": 1}],
   "shifts": [

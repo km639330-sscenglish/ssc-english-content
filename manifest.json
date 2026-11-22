@@ -1,7 +1,7 @@
 {
   "version": 3,
   "vocab": [{"file": "vocab/vocab_001.json", "version": 1}],
-  "practice": [{"file": "practice/practice_mix_001.json", "version": 1}],
+    "practice": [{"file": "practice/practice_mix_001.json", "version": 1}, {"file": "practice/practice_mix_002.json", "version": 1}],
   "shifts": [
     {
       "id": "steno_2026_sep12_s1",

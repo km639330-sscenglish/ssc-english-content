@@ -1,0 +1,123 @@
+{
+  "questions": [
+    {
+      "no": 1,
+      "text": "Select the most appropriate synonym of the given word: METICULOUS",
+      "optionA": "Careless",
+      "optionB": "Thorough",
+      "optionC": "Hasty",
+      "optionD": "Vague",
+      "correct": "B",
+      "explanation": "Meticulous means showing great attention to detail; very careful and thorough.",
+      "category": "Synonyms"
+    },
+    {
+      "no": 2,
+      "text": "Select the most appropriate meaning of the given idiom: Burn the midnight oil",
+      "optionA": "Waste money carelessly",
+      "optionB": "Work or study late into the night",
+      "optionC": "Start a big argument",
+      "optionD": "Sleep throughout the day",
+      "correct": "B",
+      "explanation": "'Burn the midnight oil' means to read, study, or work late into the night.",
+      "category": "Idioms & Phrases"
+    },
+    {
+      "no": 3,
+      "text": "Identify the segment in the sentence which contains a grammatical error: Neither of the two candidates have submitted their documents before the deadline.",
+      "optionA": "Neither of the two candidates",
+      "optionB": "have submitted",
+      "optionC": "their documents",
+      "optionD": "before the deadline",
+      "correct": "B",
+      "explanation": "'Neither of' takes a singular verb, so 'has submitted' should be used instead of 'have submitted'.",
+      "category": "Spotting Errors"
+    },
+    {
+      "no": 4,
+      "text": "Select the most appropriate option to fill in blank number 1.",
+      "optionA": "relevance",
+      "optionB": "altitude",
+      "optionC": "moisture",
+      "optionD": "fragility",
+      "correct": "A",
+      "explanation": "'Relevance' fits the context as people assume physical reading spaces are losing their importance.",
+      "category": "Cloze Test",
+      "passage": "Public libraries have always played a vital role in shaping informed and thoughtful societies. In an era dominated by fast-paced digital entertainment, many people assume that physical reading spaces are gradually losing their (1)_____. However, recent community surveys across major Indian cities reveal an encouraging trend. Thousands of students and young professionals still (2)_____ quiet library halls every morning to prepare for competitive examinations and read classic literature. Unlike noisy cafes or crowded homes, a well-maintained library offers an atmosphere of deep (3)_____ and discipline. Furthermore, modern libraries are no longer restricted to dusty bookshelves; they now provide high-speed internet, digital archives, and collaborative study zones. If local authorities continue to (4)_____ sufficient funds toward upgrading seating, lighting, and book collections, these institutions will remain an indispensable (5)_____ of lifelong learning for future generations.",
+      "passageId": "cl1"
+    },
+    {
+      "no": 5,
+      "text": "Select the most appropriate option to fill in blank number 2.",
+      "optionA": "abandon",
+      "optionB": "frequent",
+      "optionC": "postpone",
+      "optionD": "hesitate",
+      "correct": "B",
+      "explanation": "'Frequent' as a verb means to visit a place regularly.",
+      "category": "Cloze Test",
+      "passageId": "cl1"
+    },
+    {
+      "no": 6,
+      "text": "Select the most appropriate option to fill in blank number 3.",
+      "optionA": "confusion",
+      "optionB": "concentration",
+      "optionC": "celebration",
+      "optionD": "irritation",
+      "correct": "B",
+      "explanation": "A quiet library promotes deep 'concentration' and discipline.",
+      "category": "Cloze Test",
+      "passageId": "cl1"
+    },
+    {
+      "no": 7,
+      "text": "Select the most appropriate option to fill in blank number 4.",
+      "optionA": "allocate",
+      "optionB": "withdraw",
+      "optionC": "imitate",
+      "optionD": "negotiate",
+      "correct": "A",
+      "explanation": "'Allocate funds' means to set aside or distribute money for a specific purpose.",
+      "category": "Cloze Test",
+      "passageId": "cl1"
+    },
+    {
+      "no": 8,
+      "text": "Select the most appropriate option to fill in blank number 5.",
+      "optionA": "obstacle",
+      "optionB": "pillar",
+      "optionC": "rumour",
+      "optionD": "burden",
+      "correct": "B",
+      "explanation": "'Pillar' means a fundamental support or essential part of a system.",
+      "category": "Cloze Test",
+      "passageId": "cl1"
+    },
+    {
+      "no": 9,
+      "text": "According to the passage, how many tiger reserves were initially established when Project Tiger was launched in 1973?",
+      "optionA": "Fifty",
+      "optionB": "Seventy",
+      "optionC": "Nine",
+      "optionD": "Eighteen",
+      "correct": "C",
+      "explanation": "The passage clearly states that only nine tiger reserves were established in 1973.",
+      "category": "Comprehension",
+      "passage": "In 1973, India launched Project Tiger to protect the dwindling population of Bengal tigers and preserve their natural forest habitats. At the time of its launch, only nine tiger reserves were established across the country, covering roughly 18,278 square kilometres. Over the past five decades, strict anti-poaching measures, scientific habitat restoration, and active participation from local forest communities have helped the initiative expand remarkably. By 2023, the number of tiger reserves had grown to more than fifty, and India became home to over seventy percent of the world's wild tiger population. Experts emphasise that protecting tigers also safeguards entire ecosystems, because healthy tiger habitats secure vital river catchments and diverse wildlife species.",
+      "passageId": "rc1"
+    },
+    {
+      "no": 10,
+      "text": "Why do experts believe that protecting tigers also helps safeguard entire ecosystems?",
+      "optionA": "Because tigers prevent forest fires during summer",
+      "optionB": "Because healthy tiger habitats secure vital river catchments and diverse wildlife",
+      "optionC": "Because tiger reserves stop all rainfall in nearby towns",
+      "optionD": "Because tigers reduce the need for scientific research",
+      "correct": "B",
+      "explanation": "The last sentence states that healthy tiger habitats secure vital river catchments and diverse wildlife species.",
+      "category": "Comprehension",
+      "passageId": "rc1"
+    }
+  ]
+}

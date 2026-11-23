@@ -1,7 +1,21 @@
 {
-  "version": 3,
-  "vocab": [{"file": "vocab/vocab_001.json", "version": 1}],
-    "practice": [{"file": "practice/practice_mix_001.json", "version": 1}, {"file": "practice/practice_mix_002.json", "version": 1}],
+  "version": 4,
+  "vocab": [
+    {
+      "file": "vocab/vocab_001.json",
+      "version": 1
+    }
+  ],
+  "practice": [
+    {
+      "file": "practice/practice_mix_001.json",
+      "version": 1
+    },
+    {
+      "file": "practice/practice_mix_002.json",
+      "version": 1
+    }
+  ],
   "shifts": [
     {
       "id": "steno_2026_sep12_s1",
@@ -12,6 +26,16 @@
       "questionCount": 100,
       "jsonFileName": "steno_2026_sep12_s1.json",
       "version": 2
+    },
+    {
+      "id": "cgl_2026_sep15_s1",
+      "examType": "CGL",
+      "year": 2026,
+      "dateString": "15 Sep 2026",
+      "shiftNumber": 1,
+      "questionCount": 3,
+      "jsonFileName": "cgl_2026_sep15_s1.json",
+      "version": 1
     }
   ]
 }

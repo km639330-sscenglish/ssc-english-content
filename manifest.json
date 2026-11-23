@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "vocab": [
     {
       "file": "vocab/vocab_001.json",
@@ -35,6 +35,16 @@
       "shiftNumber": 1,
       "questionCount": 3,
       "jsonFileName": "cgl_2026_sep15_s1.json",
+      "version": 1
+    },
+    {
+      "id": "cgl_2028_sep10_s1",
+      "examType": "CGL",
+      "year": 2028,
+      "dateString": "10 Sep 2028",
+      "shiftNumber": 1,
+      "questionCount": 10,
+      "jsonFileName": "cgl_2028_sep10_s1.json",
       "version": 1
     }
   ]

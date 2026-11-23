@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "no": 1,
+      "text": "Select the most appropriate synonym of the given word: ABUNDANT",
+      "optionA": "Scarce",
+      "optionB": "Plentiful",
+      "optionC": "Rare",
+      "optionD": "Empty",
+      "correct": "B",
+      "explanation": "Abundant means existing in large quantities; plentiful.",
+      "category": "Synonyms"
+    },
+    {
+      "no": 2,
+      "text": "Select the most appropriate option to fill in blank number 1.",
+      "optionA": "is",
+      "optionB": "are",
+      "optionC": "was",
+      "optionD": "were",
+      "correct": "A",
+      "explanation": "Singular subject 'Education' takes singular verb 'is'.",
+      "category": "Cloze Test",
+      "passage": "Education (1)_____ the most powerful weapon which you can use to change the (2)_____.",
+      "passageId": "cl1"
+    },
+    {
+      "no": 3,
+      "text": "Select the most appropriate option to fill in blank number 2.",
+      "optionA": "world",
+      "optionB": "room",
+      "optionC": "book",
+      "optionD": "pen",
+      "correct": "A",
+      "explanation": "'Change the world' is the standard phrase.",
+      "category": "Cloze Test",
+      "passageId": "cl1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "root_0001",
+    "type": "Roots",
+    "root": "GAMY",
+    "origin": "Greek",
+    "meaning_en": "marriage",
+    "meaning_hi": "शादी",
+    "examples": [
+      {"word": "Monogamy", "breakdown": "mono [एक] + gamy [शादी]", "meaning_hi": "एक विवाह", "example": "एक समय में सिर्फ़ एक ही शादी।"},
+      {"word": "Bigamy", "breakdown": "bi [दो] + gamy [शादी]", "meaning_hi": "एक साथ दो शादियाँ", "example": "पहली शादी रहते हुए दूसरी शादी करना।"},
+      {"word": "Polygamy", "breakdown": "poly [अनेक] + gamy [शादी]", "meaning_hi": "बहुविवाह", "example": "एक से ज़्यादा जीवनसाथी रखने की प्रथा।"},
+      {"word": "Misogamy", "breakdown": "miso [नफ़रत] + gamy [शादी]", "meaning_hi": "शादी से नफ़रत", "example": "शादी के नाम से ही चिढ़ होना।"}
+    ],
+    "mnemonic": "GAMY = गाँठ बाँधना (शादी की गाँठ)।"
+  },
+  {
+    "id": "root_0002",
+    "type": "Roots",
+    "root": "PATHY",
+    "origin": "Greek",
+    "meaning_en": "feeling",
+    "meaning_hi": "भावना",
+    "examples": [
+      {"word": "Sympathy", "breakdown": "sym [साथ] + pathy [भावना]", "meaning_hi": "सहानुभूति", "example": "किसी के दुख में साथ महसूस करना।"},
+      {"word": "Empathy", "breakdown": "em [अंदर] + pathy [भावना]", "meaning_hi": "दूसरे का दर्द ख़ुद महसूस करना", "example": "दोस्त का खिलौना टूटने पर ख़ुद भी दुख होना।"},
+      {"word": "Apathy", "breakdown": "a [नहीं] + pathy [भावना]", "meaning_hi": "उदासीनता", "example": "आसपास कुछ भी हो, कोई फ़र्क न पड़ना।"},
+      {"word": "Antipathy", "breakdown": "anti [उल्टा] + pathy [भावना]", "meaning_hi": "गहरी नापसंदगी", "example": "किसी चीज़ को देखते ही चिढ़ आना।"}
+    ],
+    "mnemonic": "PATHY = पाथेय जैसा मन का भाव।"
+  }
+]

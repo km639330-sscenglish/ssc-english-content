@@ -4,6 +4,9 @@
     {
       "file": "vocab/vocab_001.json",
       "version": 1
+    },
+    {
+      "file":"vocab/vocab_roots_001.json","version":1
     }
   ],
   "practice": [

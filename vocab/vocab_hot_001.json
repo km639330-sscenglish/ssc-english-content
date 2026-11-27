@@ -1,0 +1,29 @@
+[
+  {
+    "id": "hot_0001",
+    "type": "Hot",
+    "word": "Candid",
+    "meaning_hi": "स्पष्टवादी, खरा",
+    "synonyms": ["frank", "honest", "outspoken"],
+    "antonyms": ["evasive"],
+    "frequency_tag": "🔥 Hot word"
+  },
+  {
+    "id": "hot_0002",
+    "type": "Hot",
+    "word": "Ubiquitous",
+    "meaning_hi": "सर्वव्यापी",
+    "synonyms": ["omnipresent", "pervasive"],
+    "antonyms": ["rare"],
+    "frequency_tag": "🔥 Hot word"
+  },
+  {
+    "id": "hot_0003",
+    "type": "Hot",
+    "word": "Benevolent",
+    "meaning_hi": "परोपकारी, दयालु",
+    "synonyms": ["kind", "charitable"],
+    "antonyms": [],
+    "frequency_tag": "🔥 Hot word"
+  }
+]
